@@ -18,7 +18,7 @@
     "close": "Fermer",
     "soldOutTickets": "Rupture de stock",
     "socialTitle": "Social",
-    "socialMotto": "Ajouter a vos cercles, liker, suivre ou connectez vous",
+    "socialMotto": "Pour nous suivre, nous liker, nous ajouter a vos cercles, c'est ici que ça se passe",
     "beforeHashtag": "Quoi de neuf",
     "clickToViewPhotos": "Cliquez ici pour voir plus de photos",
     "partners": "Nos partenaires",
@@ -35,7 +35,7 @@
     "aboutOrganizers": "Le DevFest Toulouse est une événement organisé par les communautés de développeurs de Toulouse, et porté administrativement par le <a href='http://www.gdgtoulouse.fr'>GDG Toulouse</a>.<br/>Pour rendre tout cela possible, une équipe de bénévoles sur-vitaminée s’active en coulisse.",
     "openTeamPage": "Voir notre équipe sur-vitaminée",
     "whatIsGdg": "CFP",
-    "aboutGdg": "Le <a href='https://devfest-toulouse.cfp.io'>Call For Paper</a> est ouvert, n'hésitez pas et soumettez votre conf ! <div class='action-buttons'><a href='https://devfest-toulouse.cfp.io'><paper-button class='primary'>Candidater</paper-button></a>",
+    "aboutGdg": "Le <a href='https://devfest-toulouse.cfp.io' target='_blank'>Call For Paper</a> est ouvert, n'hésitez pas et soumettez votre conf ! <div class='action-buttons'><a href='https://devfest-toulouse.cfp.io' target='_blank'><paper-button class='primary'>Candidater</paper-button></a>",
     "readMore": "Lire la suite",
     "copyLink": "Copier le lien",
     "filteredBy": "filtered by",
@@ -47,12 +47,12 @@
     "viewVideo": "View video",
     "skills": "Skills",
     "share": "Partager",
-    "shareWith": "Share with",
+    "shareWith": "Partager avec",
     "signIn": "Sign in",
     "signOut": "Sign out",
     "mySchedule": "Mon Programme",
     "browseMore": "Browse more events",
-    "youShouldSignInSessions": "Sign in to save sessions",
+    "youShouldSignInSessions": "Se loguer pour sauver les sessions",
     "youShouldSignInRating": "Sign in to rate sessions",
     "offlineMessage": "Vous êtes hors ligne",
     "removedFromSchedule": "Supprimer de mon agenda",
@@ -81,7 +81,7 @@
             "newTab": true
         }, {
             "text": "Kit Média",
-            "url": "http://bit.ly/devfesttlse2017-media-kit",
+            "url": "",
             "newTab": true
         }]
     }],

@@ -30,7 +30,7 @@
     },
     "hashtag": "devfesttoulouse",
     "disqusShortName": "hoverboard-gdg-x",
-    "tweetsSource": "/data/tweets.json",
+    "tweetsSource": "https://scraly.com/tweetledee/userjson.php?user=devfesttoulouse&cache_interval=8000",
     "partnershipProposition": "https://goo.gl/qk3sCZ",
     "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLn_PepuiEhUYGdcLRS7x5rVzL1scIDjOT",
     "enableSessionsRating": true,
@@ -66,6 +66,8 @@
         "name": "Cinéma CGR Blagnac",
         "address": "E.Leclerc Blagnac, ZAC du Grand Noble, 2 Allée Emile Zola, 31700 Blagnac",
         "link": "http://www.cgrcinemas.fr/blagnac/",
+        "gmaps":"https://goo.gl/maps/ihbCaXeLYqz",
+        "direction": "https://www.google.fr/maps/dir//Cinéma+CGR+Blagnac,+ZAC+du+Grand+Noble,+2+Allée+Emile+Zola,+31700+Blagnac/@43.6442066,1.3722505,17.76z",
         "pointer": {
             "latitude": 43.644436,
             "longitude": 1.373449,
@@ -82,7 +84,7 @@
         ]
     },
     "gallery": {
-        "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+        "albumUrl": "https://goo.gl/photos/m8aq5fLCNfP37o889",
         "photos": {
             "big": "/images/backgrounds/2016_1.jpg",
             "small": [
@@ -96,7 +98,7 @@
             "title": "Accueil",
             "headerSettings": {
                 "backgroundColor": "#f44336",
-                "backgroundImage": "/images/backgrounds/header.png",
+                "backgroundImage": "/images/backgrounds/capitole_panorama2.jpg",
                 "fontColor": "#fff",
                 "tabBarColor": "#fff",
                 "video": {
